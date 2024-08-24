@@ -4,8 +4,15 @@ Welcome to a curated collection of ebooks to help you on your coding journey! He
 
 ## Repository Structure
 
-* **Languages:** Organized by programming language (e.g., Python, JavaScript, Java, C++, etc.). 
-* **Topics:** Ebooks focused on specific topics (e.g., algorithms, data structures, web development, machine learning, etc.).
+* **ASP.NET:** Ebooks focused on the ASP.NET web development framework.
+* **Software Engineering:** Resources covering software development principles, architecture, and system design.
+* **Machine Learning:** A collection of ebooks related to machine learning, further divided into:
+    * **Fundamentals:** Ebooks exploring the fundamentals of statistical analysis.
+    * **Deep Reinforcement Learning:** Ebooks exploring deep reinforcement learning with actor/critic methods and other advanced techniques.
+    * **Financial Reinforcement Learning:** Resources applying deep reinforcement learning to financial problems like portfolio balancing and cryptocurrency trading.
+    * **Neural Networks:** Ebooks covering the fundamentals and various types of neural networks, such as Convolutional Neural Networks (CNNs) and LSTM and a Deep Dive to Linear Regression Analysisg.
+* **Anastasios Tefas's Publications:** A collection of research publications authored or co-authored.
+
 
 ## How to Use this Repository
 

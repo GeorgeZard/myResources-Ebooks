@@ -1,4 +1,4 @@
-# Coding Ebooks Repository
+# My Ebooks Repository
 
 Welcome to a curated collection of ebooks to help you on your coding journey! Here, you'll find resources covering various programming languages, software development methodologies, and essential computer science concepts.
 

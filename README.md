@@ -13,10 +13,10 @@ Welcome to a curated collection of ebooks to help you on your coding journey! He
     * **Neural Networks:** Ebooks covering the fundamentals and various types of neural networks, such as Convolutional Neural Networks (CNNs) and LSTM and a Deep Dive to Linear Regression Analysisg.
 * **Anastasios Tefas's Publications:** A collection of research publications authored or co-authored.
 ## Useful Resources
-* **[Tech Interview Handbook]([https://pytorch.org/](https://github.com/yangshun/tech-interview-handbook))** free and curated technical interview preparation materials.
+* **[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)** free and curated technical interview preparation materials.
 * **[System Desing Primer](https://github.com/donnemartin/system-design-primer)** an organized collection of resources to help you learn how to build systems at scale.
-* **[Awesome GIT](https://github.com/dictcp/awesome-git) a curated list of amazingly awesome Git tools, resources and shiny things.
-* **[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#python-general-purpose-machine-learning) a curated list of awesome machine learning frameworks, libraries and software (by language). 
+* **[Awesome GIT](https://github.com/dictcp/awesome-git)** a curated list of amazingly awesome Git tools, resources and shiny things.
+* **[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#python-general-purpose-machine-learning)** a curated list of awesome machine learning frameworks, libraries and software (by language). 
 
 ## How to Use this Repository
 

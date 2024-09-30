@@ -21,6 +21,7 @@ Welcome to a curated collection of ebooks to help you on your coding journey! He
 * **[System Desing Primer](https://github.com/donnemartin/system-design-primer)** an organized collection of resources to help you learn how to build systems at scale.
 * **[Awesome GIT](https://github.com/dictcp/awesome-git)** a curated list of amazingly awesome Git tools, resources and shiny things.
 * **[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning?tab=readme-ov-file#python-general-purpose-machine-learning)** a curated list of awesome machine learning frameworks, libraries and software (by language).
+* **[Awesome ASP.NET CORE](https://github.com/thangchung/awesome-dotnet-core)** a curated list of awesome ASP.NET CORE learning frameworks, libraries and software (by language).
 * **[The CSharp Academy](https://thecsharpacademy.com)** project based learning platform
 
 ## How to Use this Repository
